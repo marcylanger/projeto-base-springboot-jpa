@@ -1,0 +1,4 @@
+
+TRUNCATE funcionario CASCADE;
+TRUNCATE departamento CASCADE;
+TRUNCATE usuario CASCADE;
