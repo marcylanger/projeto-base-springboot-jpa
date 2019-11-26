@@ -1,4 +1,4 @@
-
-TRUNCATE funcionario CASCADE;
-TRUNCATE departamento CASCADE;
+TRUNCATE item_venda CASCADE;
+TRUNCATE venda CASCADE;
+TRUNCATE produto CASCADE;
 TRUNCATE usuario CASCADE;
