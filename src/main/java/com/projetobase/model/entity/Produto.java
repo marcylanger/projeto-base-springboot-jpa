@@ -31,5 +31,10 @@ public class Produto extends AbstractEntity  implements Serializable{
 	private BigDecimal valor;
 	@NotNull
 	private Integer quantidadeEstoque;
+	
+	
+	
+	
+	
 
 }
